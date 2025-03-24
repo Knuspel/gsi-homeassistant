@@ -1,0 +1,10 @@
+{
+    "domain": "gruenstromindex",
+    "name": "Grünstromindex",
+    "version": "1.0.0",
+    "requirements": ["aiohttp", "async_timeout"],
+    "codeowners": ["@knuspel"],
+    "config_flow": true,
+    "iot_class": "cloud_polling",
+    "logo": "static/gruenstromindex/logo.png"
+}
